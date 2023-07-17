@@ -2,7 +2,9 @@
 import Link from "next/link";
 const CardTemplate = ({topic,information,slug}) => {
     return (
-      <div className="p-4 mx-4 my-6 bg-gray-200 rounded-lg grid grid-flow-row">
+      <div className="p-4 mx-4 my-6 bg-gray-200
+       rounded-lg grid box-content
+        min-h-[370px]  grid-flow-row">
         <div className="border-b border-black">
           <h3 className="text-lg font-semibold">{topic}</h3>
         </div>
