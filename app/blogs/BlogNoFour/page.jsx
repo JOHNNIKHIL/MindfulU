@@ -25,7 +25,7 @@ export default function BlogNoFour(){
 
             <div className="py-2 m-2">
                 <p className="text-[18px] font-medium"> 
-                Introduction: Exam anxiety is a common experience among students, often resulting from the pressure to perform well and the fear of failure. However, with effective coping strategies, it is possible to manage exam-related stress and achieve success. In this article, we will explore advice and coping strategies to help you navigate exam anxiety, including tips for preparation, relaxation exercises, and maintaining a positive mindset.
+                Exam anxiety is a common experience among students, often resulting from the pressure to perform well and the fear of failure. However, with effective coping strategies, it is possible to manage exam-related stress and achieve success. In this article, we will explore advice and coping strategies to help you navigate exam anxiety, including tips for preparation, relaxation exercises, and maintaining a positive mindset.
                 </p>
 
             </div>

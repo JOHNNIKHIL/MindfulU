@@ -24,7 +24,7 @@ export default function BlogNoThree(){
             </h2>
             <div className="py-2 m-2">
                 <p className="text-[18px] font-medium"> 
-                : Developing strong study skills is crucial for academic success. As a student, understanding effective study methods, memory techniques, organization strategies, and time management skills can significantly enhance your learning experience and overall performance. In this article, we will delve into practical guidance to help you optimize your study routine and achieve your academic goals.
+                Developing strong study skills is crucial for academic success. As a student, understanding effective study methods, memory techniques, organization strategies, and time management skills can significantly enhance your learning experience and overall performance. In this article, we will delve into practical guidance to help you optimize your study routine and achieve your academic goals.
                 </p>
 
             </div>
