@@ -73,7 +73,7 @@ export default function BlogNoOne(){
             
             </div></div>
 
-            <div className=" m-6 p-6 ">
+            <div className=" m-6  ">
                 <h1 className="p-3 text-black font-serif text-[36px] border-b-4">Read more</h1>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3"><BlogTwo />
                 <BlogThree />
