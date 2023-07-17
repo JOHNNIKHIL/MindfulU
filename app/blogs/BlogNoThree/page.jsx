@@ -88,7 +88,7 @@ export default function BlogNoThree(){
             <div className="py-2 m-2">
                 <p className="text-[18px] font-medium"> 
             
-                Every student is unique, and it's important to explore different study techniques to find what works best for you. Additionally, seek support from teachers, tutors, or academic resources available to you for personalized guidance and assistance in further developing your study skills.
+                Every student is unique, and it`s important to explore different study techniques to find what works best for you. Additionally, seek support from teachers, tutors, or academic resources available to you for personalized guidance and assistance in further developing your study skills.
                 </p>
 
             </div>

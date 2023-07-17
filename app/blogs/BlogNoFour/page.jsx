@@ -58,7 +58,7 @@ export default function BlogNoFour(){
                 </p>
                 <p className="mx-4">
                 •	Challenge Negative Thoughts: Recognize and challenge negative thoughts or self-doubt that may arise during exam preparation. Replace them with positive affirmations and realistic, encouraging statements. Visualize success and focus on your capabilities.
-<br />•	Practice Self-Compassion: Be kind and understanding toward yourself. Acknowledge that exams are challenging, and it's normal to feel anxious. Treat yourself with self-compassion, focusing on growth, effort, and progress rather than perfection.
+<br />•	Practice Self-Compassion: Be kind and understanding toward yourself. Acknowledge that exams are challenging, and it`s normal to feel anxious. Treat yourself with self-compassion, focusing on growth, effort, and progress rather than perfection.
 <br />•	Visualize Success: Imagine yourself performing well on the exam. Visualize yourself feeling confident, focused, and in control. This positive visualization technique can boost your self-belief and reduce anxiety.
 
 </p>

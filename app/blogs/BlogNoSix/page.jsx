@@ -92,7 +92,7 @@ export default function BlogNoSix(){
             </h2>
             <div className="py-2 m-2">
                 <p className="text-[18px] font-medium"> 
-                It's important to find a balance that works for you as an individual. Some students may thrive with more social activities, while others may prefer more focused academic pursuits. Adjust your approach according to your own needs and priorities.
+                It`s important to find a balance that works for you as an individual. Some students may thrive with more social activities, while others may prefer more focused academic pursuits. Adjust your approach according to your own needs and priorities.
                 </p>
 
             </div>

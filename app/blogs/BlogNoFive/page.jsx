@@ -66,7 +66,7 @@ export default function BlogNoFive(){
 5.	Campus Resources and Student Organizations
                 </p>
                 <p className="mx-4">
-                Many educational institutions have additional resources available on campus to support student mental health. These may include wellness centers, student health services, peer support programs, or student organizations focused on mental health advocacy and awareness. Students can seek information from their institution's website, student affairs office, or counseling center to explore available resources and engage with relevant support programs or activities.
+                Many educational institutions have additional resources available on campus to support student mental health. These may include wellness centers, student health services, peer support programs, or student organizations focused on mental health advocacy and awareness. Students can seek information from their institution`s website, student affairs office, or counseling center to explore available resources and engage with relevant support programs or activities.
 </p>
 
 <div className="py-6 m-4">
@@ -75,7 +75,7 @@ export default function BlogNoFive(){
             </h2>
             <div className="py-2 m-2">
                 <p className="text-[18px] font-medium"> 
-                Navigating the challenges of student life can be overwhelming, but it's important to remember that support is available. Mental health resources such as counseling services, helplines, online support communities, and mobile apps offer valuable support to students in need. It's crucial for students to be aware of these resources, reach out for help when needed, and take proactive steps to prioritize their mental well-being. Remember, seeking support is a sign of strength, and no student should face mental health challenges alone.
+                Navigating the challenges of student life can be overwhelming, but it`s important to remember that support is available. Mental health resources such as counseling services, helplines, online support communities, and mobile apps offer valuable support to students in need. It`s crucial for students to be aware of these resources, reach out for help when needed, and take proactive steps to prioritize their mental well-being. Remember, seeking support is a sign of strength, and no student should face mental health challenges alone.
                </p>
 
             </div>
@@ -85,7 +85,7 @@ export default function BlogNoFive(){
             </h2>
             <div className="py-2 m-2">
                 <p className="text-[18px] font-medium"> 
-                While these resources can be valuable, each student's experience is unique. It's essential to explore and utilize resources that best suit individual needs. Additionally, if students are experiencing persistent or severe mental health concerns, it is recommended to seek guidance from mental health professionals or counselors who can provide personalized support.
+                While these resources can be valuable, each student`s experience is unique. It`s essential to explore and utilize resources that best suit individual needs. Additionally, if students are experiencing persistent or severe mental health concerns, it is recommended to seek guidance from mental health professionals or counselors who can provide personalized support.
                 </p>
 
             </div>

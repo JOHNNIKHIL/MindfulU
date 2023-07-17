@@ -25,7 +25,7 @@ export default function BlogNoSeven(){
             </h2>
             <div className="py-2 m-2">
                 <p className="text-[18px] font-medium"> 
-                Transition periods in a student's life, such as starting college, changing majors, or transitioning to the workforce, can be both exciting and challenging. These moments of change often require adaptation and finding new support systems. In this article, we will explore the challenges students face during significant transition periods, provide guidance on adapting to change, and offer advice on finding support during these transformative times.
+                Transition periods in a student`s life, such as starting college, changing majors, or transitioning to the workforce, can be both exciting and challenging. These moments of change often require adaptation and finding new support systems. In this article, we will explore the challenges students face during significant transition periods, provide guidance on adapting to change, and offer advice on finding support during these transformative times.
                 
                 </p>
 
@@ -84,7 +84,7 @@ export default function BlogNoSeven(){
             </h2>
             <div className="py-2 m-2">
                 <p className="text-[18px] font-medium"> 
-                Transition periods in a student's life are significant moments of change and growth. By embracing change, adapting to new circumstances, and seeking support, students can navigate these transitions successfully. Remember to reflect on personal values and goals, build a support network, cultivate resilience, and set goals to provide direction and structure during these transformative times. With the right mindset and support, students can embrace new opportunities and thrive during transition periods.
+                Transition periods in a student`s life are significant moments of change and growth. By embracing change, adapting to new circumstances, and seeking support, students can navigate these transitions successfully. Remember to reflect on personal values and goals, build a support network, cultivate resilience, and set goals to provide direction and structure during these transformative times. With the right mindset and support, students can embrace new opportunities and thrive during transition periods.
                </p>
 
             </div>
