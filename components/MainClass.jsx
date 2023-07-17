@@ -80,7 +80,7 @@ const MainClass = () => {
     Discover empowering blogs that nurture your well-being and academic growth. From stress management to resilience-building, MindfulU offers valuable insights and practical strategies tailored for students. Join us on this transformative journey towards a healthier student life and embrace mental well-being with MindfulU blogs.</h1>
       <div className="grid grid-cols-1  mx-4 md:grid-cols-2 lg:grid-cols-3">
         
-        {currentBlogs.map((blog,) => (
+        {currentBlogs.map((blog) => (
           <div key={blog.id}>{blogComponents[blog.id]}</div>
         ))}
       </div></div>
