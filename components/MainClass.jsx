@@ -32,7 +32,7 @@ const MainClass = () => {
    
  
   return (<div>
-    <div className=" bg-violet-700 mix-blend-colors pb-5 ">
+    <div className=" bg-violet-600 mix-blend-colors pb-5 ">
       <div className="text-white ">
         <h1 className=" text-[28px] font-bold md:text-[38px] ml-[30px] pt-4  md:ml-6 md:p-3 md:pd-1">MindfulU</h1>
 
@@ -49,7 +49,7 @@ const MainClass = () => {
   
       </div>
 
-      <div className="text-white font-small font-small p-4 m-3 grid grid-cols-1 md:grid-cols-2 rounded-2xl mb-5 bg-gradient-to-br from-teal-700 to bg-cyan-800 shadow-2xl z-50">
+      <div className="text-white font-small font-small p-4 m-3 grid grid-cols-1 md:grid-cols-2 rounded-2xl mb-5 bg-gradient-to-br from-teal-600  shadow-2xl z-50">
       
       <div className="p-4">
         <h1 className="text-[26px] mb-4" >The Modern Student's Mental State: Navigating Challenges in a Fast-Paced World</h1>
@@ -75,7 +75,7 @@ const MainClass = () => {
       </div>
       </div>
       <div></div>
-<div className="box-content pt-3 p-3 mt-3 mb-3 z-50 shadow-2xl  bg-gradient-to-br from-blue-500 to-[#706bf4]">
+<div className="box-content pt-3 p-3 mt-3 mb-3 z-50 shadow-2xl  bg-gradient-to-br from-blue-600 to-[#706bf4]">
   <h1 className="text-white pl-5 pr-5 pt-3 pb-2 mr-3 ml-3 text-md md:text-lg lg:text-xl" >
     Discover empowering blogs that nurture your well-being and academic growth. From stress management to resilience-building, MindfulU offers valuable insights and practical strategies tailored for students. Join us on this transformative journey towards a healthier student life and embrace mental well-being with MindfulU blogs.</h1>
       <div className="grid grid-cols-1  mx-4 md:grid-cols-2 lg:grid-cols-3">
