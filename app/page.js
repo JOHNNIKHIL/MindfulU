@@ -1,14 +1,14 @@
 //Part 1 of the code
 import Nav from "components/Nav";
 import MainClass from "@/components/MainClass";
-
+import {Analytics} from '@vercel/analytics/react';
 export default function Home() {
   return (
    
    <main>
     <Nav />
     <MainClass />
-
+<Analytics />
     
     </main>
   );
