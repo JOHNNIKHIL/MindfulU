@@ -51,7 +51,7 @@ const MainClass = () => {
     <div>
       <div className="bg-violet-600 mix-blend-colors pb-5">
         <div className="text-white ease-in ">
-          <h1 className="text-[28px] font-bold md:text-[38px] ml-[30px] pt-4 md:ml-6 md:p-3 md:pd-1">MindfulU</h1>
+          <h1 className="text-[28px] font-bold md:text-[38px] ml-[30px] pt-4 md:ml-6 md:p-3 md:pd-1">MindCrafter</h1>
 
           <div className="px-[38px] box-content bg-violet-600 mb-6 z-50 shadow-2xl rounded-xl m-3 mt-1 grid grid-cols-1 md:grid-cols-2">
             <div className="p-2 font-light">
@@ -76,12 +76,12 @@ const MainClass = () => {
           </div>
 
           <div className="p-4">
-            <h1 className="text-[26px] mb-4">Why choose MindfulU</h1>
+            <h1 className="text-[26px] mb-4">Why choose MindCrafter</h1>
             <p className="text-lg">
-              At MindfulU, we believe that mental health is just as important as physical health. We offer a wealth of information, insights, and practical strategies to help students navigate the complexities of student life while nurturing their mental well-being. Our content covers a wide range of topics, including stress management techniques, self-care practices, effective study strategies, and guidance on balancing academics with personal growth.
+              At MindCrafter, we believe that mental health is just as important as physical health. We offer a wealth of information, insights, and practical strategies to help students navigate the complexities of student life while nurturing their mental well-being. Our content covers a wide range of topics, including stress management techniques, self-care practices, effective study strategies, and guidance on balancing academics with personal growth.
             </p>
             <p className="text-lg">
-              We are here to be your trusted companion on the path to a healthier mind and a more fulfilling student experience. Join us on this transformative journey towards mental well-being and discover the tools and inspiration you need to flourish as a student. Take the first step today with MindfulU!
+              We are here to be your trusted companion on the path to a healthier mind and a more fulfilling student experience. Join us on this transformative journey towards mental well-being and discover the tools and inspiration you need to flourish as a student. Take the first step today with MindCrafter!
             </p>
             <p className="text-lg">
               Remember, your mental health matters, and we are here to help you prioritize it. Together, lets create a healthier and more mindful student community.
@@ -94,7 +94,7 @@ const MainClass = () => {
 
         <div className="box-content pt-3 p-3 mt-3 mb-3 z-50 shadow-2xl bg-gradient-to-br from-blue-600 to-[#706bf4]">
           <h1 className="text-white pl-5 pr-5 pt-3 pb-2 mr-3 ml-3 text-md md:text-lg lg:text-xl">
-            Discover empowering blogs that nurture your well-being and academic growth. From stress management to resilience-building, MindfulU offers valuable insights and practical strategies tailored for students. Join us on this transformative journey towards a healthier student life and embrace mental well-being with MindfulU blogs.
+            Discover empowering blogs that nurture your well-being and academic growth. From stress management to resilience-building, MindCrafter offers valuable insights and practical strategies tailored for students. Join us on this transformative journey towards a healthier student life and embrace mental well-being with MindCrafter blogs.
           </h1>
           <div className="grid grid-cols-1 mx-4 md:grid-cols-2 lg:grid-cols-3">
             {currentBlogs.map((blog) => (
