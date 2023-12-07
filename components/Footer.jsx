@@ -7,6 +7,10 @@ const Footer=()=>{
         <div className="text-white text-[14px] md:text-[18px]"> 
         May You all students succedd in life. All the Best ❤️❤️
         </div>
+        <div><h1 className="text-[14px] pb-1 md:text-[18px] text-white ">
+            Er. Nikhil John</h1>
+            </div>
+        
     </div>
     
 
