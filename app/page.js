@@ -1,5 +1,5 @@
 //Part 1 of the code
-import Nav from "components/Nav";
+import Nav from "@/components/Nav";
 import MainClass from "@/components/MainClass";
 import {Analytics} from '@vercel/analytics/react';
 import { SpeedInsights } from "@vercel/speed-insights/next"
